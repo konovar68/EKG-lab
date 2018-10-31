@@ -39,7 +39,7 @@ namespace Приемник
 
         const int decim = 3;// децимация сигнала
         int dec = 0;
-        const int dec_max = 4;// частота обработки полученных сигналов
+        const int dec_max = 2;// частота обработки полученных сигналов
         const int length_ = (24 / decim)+1;
         #endregion
 
