@@ -1,0 +1,66 @@
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\bin\Debug\NMClient.exe
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\bin\Debug\NMClient.pdb
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\Users\vahtin\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+Z:\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+Z:\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\bin\Debug\NMClient.exe
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\bin\Debug\NMClient.pdb
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.csprojResolveAssemblyReference.cache
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+E:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\bin\Debug\NMClient.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\bin\Debug\NMClient.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\bin\Debug\NMClient.exe
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\bin\Debug\NMClient.pdb
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.csprojResolveAssemblyReference.cache
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+C:\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\NetManager\NMClient\bin\Debug\NMClient.exe
+C:\NetManager\NMClient\bin\Debug\NMClient.pdb
+C:\NetManager\NMClient\obj\x86\Debug\NMClient.csprojResolveAssemblyReference.cache
+C:\NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+C:\NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+C:\NetManager\NMClient\obj\x86\Debug\NMClient.csproj.GenerateResource.Cache
+\\NATASHA\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+K:\Archive\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+K:\Archive\Visual C#\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\Users\alvah\Downloads\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+C:\Users\alvah\Downloads\NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\Users\alvah\Downloads\NetManager\NMClient\bin\Debug\NMClient.exe
+C:\Users\alvah\Downloads\NetManager\NMClient\bin\Debug\NMClient.pdb
+C:\Users\alvah\Downloads\NetManager\NMClient\obj\x86\Debug\NMClient.csprojResolveAssemblyReference.cache
+C:\Users\alvah\Downloads\NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+C:\Users\alvah\Downloads\NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+C:\Users\alvah\Downloads\NetManager\NMClient\obj\x86\Debug\NMClient.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ \NetManager\NMClient\obj\x86\Debug\NMClient.exe
+C:\Users\user\Desktop\ \NetManager\NMClient\obj\x86\Debug\NMClient.pdb
+C:\Users\user\Desktop\ \NetManager\NMClient\bin\Debug\NMClient.exe
+C:\Users\user\Desktop\ \NetManager\NMClient\obj\x86\Debug\NMClient.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ \NetManager\NMClient\obj\x86\Debug\NetManager.FormClient.resources
+C:\Users\user\Desktop\ \NetManager\NMClient\obj\x86\Debug\NMClient.Properties.Resources.resources
+C:\Users\user\Desktop\ \NetManager\NMClient\obj\x86\Debug\NMClient.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ \Курсач\NetManager\NMClient\obj\x86\Debug\NMClient.exe
+C:\Users\user\Desktop\ \Курсач\NetManager\NMClient\obj\x86\Debug\NMClient.pdb

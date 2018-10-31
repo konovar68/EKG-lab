@@ -1,0 +1,77 @@
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\bin\Debug\EEG.exe
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\bin\Debug\EEG.pdb
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.exe
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\EEG\EEG\obj\x86\Debug\EEG.exe
+C:\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\EEG\EEG\bin\Debug\EEG.exe
+C:\EEG\EEG\bin\Debug\EEG.pdb
+C:\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+C:\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+C:\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.exe
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.pdb
+F:\Alexsey\Архив\Visual C#\EEG\EEG\bin\Debug\EEG.exe
+F:\Alexsey\Архив\Visual C#\EEG\EEG\bin\Debug\EEG.pdb
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.csprojResolveAssemblyReference.cache
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\bin\Debug\EEG.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\bin\Debug\EEG.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.csprojResolveAssemblyReference.cache
+Q:\programs\EEG\EEG\obj\x86\Debug\EEG.exe
+Q:\programs\EEG\EEG\obj\x86\Debug\EEG.pdb
+Q:\programs\EEG\EEG\bin\Debug\EEG.exe
+Q:\programs\EEG\EEG\bin\Debug\EEG.pdb
+Q:\programs\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+Q:\programs\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+Q:\programs\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+H:\EEG\EEG\obj\x86\Debug\EEG.exe
+H:\EEG\EEG\obj\x86\Debug\EEG.pdb
+H:\EEG\EEG\bin\Debug\EEG.exe
+H:\EEG\EEG\bin\Debug\EEG.pdb
+H:\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+H:\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+H:\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\EEG12.12.2014\EEG\obj\x86\Debug\EEG.exe
+C:\EEG12.12.2014\EEG\obj\x86\Debug\EEG.pdb
+C:\EEG12.12.2014\EEG\bin\Debug\EEG.exe
+C:\EEG12.12.2014\EEG\bin\Debug\EEG.pdb
+C:\EEG12.12.2014\EEG\obj\x86\Debug\EEG.FormMain.resources
+C:\EEG12.12.2014\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+C:\EEG12.12.2014\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\EEG\EEG\obj\x86\Debug\EEG.csprojResolveAssemblyReference.cache
+D:\Archive\C#\EEG\EEG\obj\x86\Debug\EEG.exe
+D:\Archive\C#\EEG\EEG\obj\x86\Debug\EEG.pdb
+D:\Archive\C#\EEG\EEG\bin\Debug\EEG.exe
+D:\Archive\C#\EEG\EEG\bin\Debug\EEG.pdb
+D:\Archive\C#\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+D:\Archive\C#\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+D:\Archive\C#\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\EEG\EEG\obj\x86\Debug\EEG.exe
+C:\Users\user\Desktop\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\Users\user\Desktop\EEG\EEG\bin\Debug\EEG.exe
+C:\Users\user\Desktop\EEG\EEG\obj\x86\Debug\EEG.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+C:\Users\user\Desktop\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+C:\Users\user\Desktop\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\EEG\EEG\bin\Debug\EEG.pdb
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\obj\x86\Debug\EEG.exe
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\bin\Debug\EEG.exe
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\bin\Debug\EEG.pdb
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\obj\x86\Debug\EEG.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+C:\Users\user\Desktop\ \Курсач\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ \!Курсач\EEG\EEG\obj\x86\Debug\EEG.exe
+C:\Users\user\Desktop\ \!Курсач\EEG\EEG\obj\x86\Debug\EEG.pdb

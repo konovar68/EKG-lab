@@ -1,0 +1,7 @@
+C:\EEG\TestFilter\bin\Release\TestFilter.exe
+C:\EEG\TestFilter\bin\Release\TestFilter.pdb
+C:\EEG\TestFilter\obj\x86\Release\TestFilter.Form1.resources
+C:\EEG\TestFilter\obj\x86\Release\TestFilter.Properties.Resources.resources
+C:\EEG\TestFilter\obj\x86\Release\TestFilter.csproj.GenerateResource.Cache
+C:\EEG\TestFilter\obj\x86\Release\TestFilter.exe
+C:\EEG\TestFilter\obj\x86\Release\TestFilter.pdb

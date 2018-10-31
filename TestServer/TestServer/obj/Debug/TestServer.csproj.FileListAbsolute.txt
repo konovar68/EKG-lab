@@ -1,0 +1,185 @@
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\bin\Debug\TestServer.exe
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\bin\Debug\TestServer.pdb
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\obj\Debug\TestServer.exe
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\obj\Debug\TestServer.pdb
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\Debug\TestServer.exe
+C:\Users\natasha\Documents\Visual Studio 2008\Projects\Wavlet 2\Debug\TestServer.pdb
+E:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.exe
+E:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.pdb
+E:\CUDA\Wavlet 2\Debug\TestServer.exe
+E:\CUDA\Wavlet 2\Debug\TestServer.pdb
+E:\CUDA\Wavlet 2\TestServer\obj\Debug\ResolveAssemblyReference.cache
+E:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.Form1.resources
+E:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+E:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+G:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.exe
+G:\CUDA\Wavlet 2\TestServer\obj\Debug\TestServer.pdb
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\TestServer.exe
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\TestServer.pdb
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\Debug\TestServer.exe
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\Debug\TestServer.pdb
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\ResolveAssemblyReference.cache
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\TestServer.Form1.resources
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Alexsey\Архив\Visual C#\CUDA\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.exe
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.pdb
+C:\Wavlet\Debug\TestServer.exe
+C:\Wavlet\Debug\TestServer.pdb
+C:\Wavlet\TestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Wavlet\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Wavlet\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Wavlet\TestServer\obj\Debug\TestServer.exe
+C:\Wavlet\TestServer\obj\Debug\TestServer.pdb
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\Debug\TestServer.exe
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\Debug\TestServer.pdb
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\natasha\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\Debug\TestServer.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Частотное преобразование\Debug\TestServer.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Частотное преобразование\TestServer\obj\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Частотное преобразование\TestServer\obj\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Debug\TestServer.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\TestServer\obj\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+G:\Frequency\Debug\TestServer.exe.config
+G:\Frequency\TestServer\obj\Debug\TestServer.exe
+G:\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Frequency\Debug\TestServer.exe.config
+C:\Frequency\TestServer\obj\Debug\TestServer.exe
+C:\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Frequency\Debug\TestServer.exe
+C:\Frequency\Debug\TestServer.pdb
+C:\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Frequency\TestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Frequency\TestServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Frequency\TestServer\obj\Debug\GenerateResource.write.1.tlog
+G:\Frequency\Debug\TestServer.exe
+G:\Frequency\Debug\TestServer.pdb
+G:\Frequency\TestServer\obj\Debug\ResolveAssemblyReference.cache
+G:\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+G:\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+G:\Frequency\TestServer\obj\Debug\GenerateResource.read.1.tlog
+G:\Frequency\TestServer\obj\Debug\GenerateResource.write.1.tlog
+Q:\Frequency\Debug\TestServer.exe.config
+Q:\Frequency\TestServer\obj\Debug\TestServer.exe
+Q:\Frequency\TestServer\obj\Debug\TestServer.pdb
+Q:\Frequency\Debug\TestServer.exe
+Q:\Frequency\Debug\TestServer.pdb
+Q:\Frequency\TestServer\obj\Debug\ResolveAssemblyReference.cache
+Q:\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+Q:\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+Q:\Frequency\TestServer\obj\Debug\GenerateResource.read.1.tlog
+Q:\Frequency\TestServer\obj\Debug\GenerateResource.write.1.tlog
+I:\Frequency\Debug\TestServer.exe.config
+I:\Frequency\TestServer\obj\Debug\TestServer.exe
+I:\Frequency\TestServer\obj\Debug\TestServer.pdb
+D:\Frequency\Debug\TestServer.exe.config
+D:\Frequency\TestServer\obj\Debug\TestServer.exe
+D:\Frequency\TestServer\obj\Debug\TestServer.pdb
+Q:\programs\Frequency\Debug\TestServer.exe.config
+Q:\programs\Frequency\TestServer\obj\Debug\TestServer.exe
+Q:\programs\Frequency\TestServer\obj\Debug\TestServer.pdb
+Q:\programs\Frequency\Debug\TestServer.exe
+Q:\programs\Frequency\Debug\TestServer.pdb
+Q:\programs\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+Q:\programs\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\Debug\TestServer.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\TestServer\obj\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Frequency\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+Q:\programs\Frequency\Frequency\Debug\TestServer.exe.config
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\TestServer.exe
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\TestServer.pdb
+Q:\programs\Frequency\Frequency\Debug\TestServer.exe
+Q:\programs\Frequency\Frequency\Debug\TestServer.pdb
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\ResolveAssemblyReference.cache
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\GenerateResource.read.1.tlog
+Q:\programs\Frequency\Frequency\TestServer\obj\Debug\GenerateResource.write.1.tlog
+Q:\programs\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+Q:\programs\Frequency\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\Debug\TestServer.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\TestServer\obj\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Users\Александр\Desktop\Frequency\Debug\TestServer.exe.config
+C:\Users\Александр\Desktop\Frequency\TestServer\obj\Debug\TestServer.exe
+C:\Users\Александр\Desktop\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Users\Александр\Desktop\Frequency\Debug\TestServer.exe
+C:\Users\Александр\Desktop\Frequency\Debug\TestServer.pdb
+C:\Users\Александр\Desktop\Frequency\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\Александр\Desktop\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\Александр\Desktop\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+D:\Frequency\Debug\TestServer.exe
+D:\Frequency\Debug\TestServer.pdb
+D:\Frequency\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+D:\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+D:\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+D:\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+D:\Program\Frequency\Debug\TestServer.exe.config
+D:\Program\Frequency\Debug\TestServer.exe
+D:\Program\Frequency\Debug\TestServer.pdb
+D:\Program\Frequency\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+D:\Program\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+D:\Program\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+D:\Program\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+D:\Program\Frequency\TestServer\obj\Debug\TestServer.exe
+D:\Program\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\Debug\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\Debug\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+D:\Archive\C#\CUDA\Frequency\Debug\TestServer.exe.config
+D:\Archive\C#\CUDA\Frequency\Debug\TestServer.exe
+D:\Archive\C#\CUDA\Frequency\Debug\TestServer.pdb
+D:\Archive\C#\CUDA\Frequency\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+D:\Archive\C#\CUDA\Frequency\TestServer\obj\Debug\TestServer.Form1.resources
+D:\Archive\C#\CUDA\Frequency\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+D:\Archive\C#\CUDA\Frequency\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+D:\Archive\C#\CUDA\Frequency\TestServer\obj\Debug\TestServer.exe
+D:\Archive\C#\CUDA\Frequency\TestServer\obj\Debug\TestServer.pdb
+C:\Users\alvah\Downloads\TestServer\Debug\TestServer.exe.config
+C:\Users\alvah\Downloads\TestServer\TestServer\obj\Debug\TestServer.exe
+C:\Users\alvah\Downloads\TestServer\TestServer\obj\Debug\TestServer.pdb
+C:\Users\alvah\Downloads\TestServer\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\alvah\Downloads\TestServer\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\alvah\Downloads\TestServer\TestServer\obj\Debug\TestServer.csproj.GenerateResource.Cache
+C:\Users\alvah\Downloads\TestServer\TestServer\Debug\TestServer.exe.config
+C:\Users\alvah\Downloads\TestServer\TestServer\Debug\TestServer.exe
+C:\Users\alvah\Downloads\TestServer\TestServer\Debug\TestServer.pdb
+C:\Users\alvah\Downloads\TestServer\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache

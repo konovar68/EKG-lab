@@ -1,0 +1,44 @@
+C:\EEG_migalka\EEG_migalka\obj\x86\Debug\EEG_migalka.FormMain.resources
+C:\EEG_migalka\EEG_migalka\obj\x86\Debug\EEG_migalka.Properties.Resources.resources
+C:\EEG_migalka\EEG_migalka\obj\x86\Debug\EEG_migalka.csproj.GenerateResource.Cache
+C:\EEG_migalka\EEG_migalka\bin\Debug\EEG_migalka.exe
+C:\EEG_migalka\EEG_migalka\bin\Debug\EEG_migalka.pdb
+C:\EEG_migalka\EEG_migalka\obj\x86\Debug\EEG_migalka.exe
+C:\EEG_migalka\EEG_migalka\obj\x86\Debug\EEG_migalka.pdb
+C:\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.exe
+C:\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.pdb
+C:\EEG\EEG_migalka\bin\Debug\EEG_migalka.exe
+C:\EEG\EEG_migalka\bin\Debug\EEG_migalka.pdb
+C:\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.FormMain.resources
+C:\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.Properties.Resources.resources
+C:\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.FormMain.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\bin\Debug\EEG_migalka.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\bin\Debug\EEG_migalka.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\bin\Debug\EEG_migalka.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\bin\Debug\EEG_migalka.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.csprojResolveAssemblyReference.cache
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.FormMain.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.Properties.Resources.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.csproj.GenerateResource.Cache
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.pdb
+Q:\programs\EEG\EEG_migalka\bin\Debug\EEG_migalka.exe
+Q:\programs\EEG\EEG_migalka\bin\Debug\EEG_migalka.pdb
+Q:\programs\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.FormMain.resources
+Q:\programs\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.Properties.Resources.resources
+Q:\programs\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.csproj.GenerateResource.Cache
+Q:\programs\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.exe
+Q:\programs\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.pdb
+C:\EEG12.12.2014\EEG_migalka\bin\Debug\EEG_migalka.exe
+C:\EEG12.12.2014\EEG_migalka\bin\Debug\EEG_migalka.pdb
+C:\EEG12.12.2014\EEG_migalka\obj\x86\Debug\EEG_migalka.FormMain.resources
+C:\EEG12.12.2014\EEG_migalka\obj\x86\Debug\EEG_migalka.Properties.Resources.resources
+C:\EEG12.12.2014\EEG_migalka\obj\x86\Debug\EEG_migalka.csproj.GenerateResource.Cache
+C:\EEG12.12.2014\EEG_migalka\obj\x86\Debug\EEG_migalka.exe
+C:\EEG12.12.2014\EEG_migalka\obj\x86\Debug\EEG_migalka.pdb
+C:\EEG\EEG_migalka\obj\x86\Debug\EEG_migalka.csprojResolveAssemblyReference.cache

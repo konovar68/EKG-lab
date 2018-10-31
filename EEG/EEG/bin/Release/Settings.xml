@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <EEG>
+    <Window WindowState="Maximized" Left="-8" Top="-8" Width="1296" Height="1000" />
+    <Network Port="9000" IP="127.0.0.1" Name="ЭЭГ" />
+    <E1 FHF="0" FLF="0" Amplification="5" />
+    <E2 FHF="0" FLF="0" Amplification="5" />
+    <E3 FHF="0" FLF="0" Amplification="5" />
+    <E4 FHF="0" FLF="0" Amplification="5" />
+    <Channels Fp1-A1="1" F3-A1="0" C3-A1="0" P3-A1="0" O1-A1="0" F7-A1="0" T3-A1="0" T5-A1="0" Fz-A1="0" PZ-A1="0" A1-A2="0" Fp2-A2="0" F4-A2="0" C4-A2="0" P4-A2="0" O2-A2="0" F8-A2="0" T4-A2="0" T6-A2="0" Fpz-A2="0" Cz-A2="0" Oz-A2="0" E1="0" E2="0" E3="0" E4="0" />
+    <Save Checked="true" />
+    <Scale X="5" Y="0,0050" />
+    <Visible Ch0="true" Ch1="true" Ch2="true" Ch3="true" Ch4="true" Ch5="true" Ch6="true" Ch7="true" Ch8="true" Ch9="true" Ch10="true" Ch11="true" Ch12="true" Ch13="true" Ch14="true" Ch15="true" Ch16="true" Ch17="true" Ch18="true" Ch19="true" Ch20="true" Ch21="true" Ch22="true" Ch23="true" Ch24="true" Ch25="true" Ch26="true" Ch27="true" Ch28="true" />
+  </EEG>
+</Settings>

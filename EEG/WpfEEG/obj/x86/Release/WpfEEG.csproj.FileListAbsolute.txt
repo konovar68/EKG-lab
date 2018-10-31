@@ -1,0 +1,3 @@
+C:\EEG\WpfEEG\obj\x86\Release\WpfEEG.csprojResolveAssemblyReference.cache
+C:\EEG\WpfEEG\obj\x86\Release\App.g.cs
+C:\EEG\WpfEEG\obj\x86\Release\WpfEEG_MarkupCompile.cache

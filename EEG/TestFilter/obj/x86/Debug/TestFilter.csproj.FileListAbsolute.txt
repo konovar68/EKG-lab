@@ -1,0 +1,35 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\bin\Debug\TestFilter.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\bin\Debug\TestFilter.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\bin\Debug\TestFilter.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\bin\Debug\TestFilter.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.Form1.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.Properties.Resources.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.csproj.GenerateResource.Cache
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\TestFilter\obj\x86\Debug\TestFilter.pdb
+Q:\programs\EEG\TestFilter\bin\Debug\TestFilter.exe
+Q:\programs\EEG\TestFilter\bin\Debug\TestFilter.pdb
+Q:\programs\EEG\TestFilter\obj\x86\Debug\TestFilter.Form1.resources
+Q:\programs\EEG\TestFilter\obj\x86\Debug\TestFilter.Properties.Resources.resources
+Q:\programs\EEG\TestFilter\obj\x86\Debug\TestFilter.csproj.GenerateResource.Cache
+Q:\programs\EEG\TestFilter\obj\x86\Debug\TestFilter.exe
+Q:\programs\EEG\TestFilter\obj\x86\Debug\TestFilter.pdb
+C:\EEG12.12.2014\TestFilter\bin\Debug\TestFilter.exe
+C:\EEG12.12.2014\TestFilter\bin\Debug\TestFilter.pdb
+C:\EEG12.12.2014\TestFilter\obj\x86\Debug\TestFilter.Form1.resources
+C:\EEG12.12.2014\TestFilter\obj\x86\Debug\TestFilter.Properties.Resources.resources
+C:\EEG12.12.2014\TestFilter\obj\x86\Debug\TestFilter.csproj.GenerateResource.Cache
+C:\EEG12.12.2014\TestFilter\obj\x86\Debug\TestFilter.exe
+C:\EEG12.12.2014\TestFilter\obj\x86\Debug\TestFilter.pdb
+C:\EEG\TestFilter\bin\Debug\TestFilter.exe
+C:\EEG\TestFilter\bin\Debug\TestFilter.pdb
+C:\EEG\TestFilter\obj\x86\Debug\TestFilter.Form1.resources
+C:\EEG\TestFilter\obj\x86\Debug\TestFilter.Properties.Resources.resources
+C:\EEG\TestFilter\obj\x86\Debug\TestFilter.csproj.GenerateResource.Cache
+C:\EEG\TestFilter\obj\x86\Debug\TestFilter.exe
+C:\EEG\TestFilter\obj\x86\Debug\TestFilter.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\bin\Release\EEG.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\bin\Release\EEG.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Release\EEG.FormMain.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Release\EEG.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Release\EEG.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Release\EEG.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Release\EEG.pdb
+C:\EEG\EEG\obj\x86\Release\EEG.exe
+C:\EEG\EEG\obj\x86\Release\EEG.pdb
+C:\EEG\EEG\bin\Release\EEG.exe
+C:\EEG\EEG\bin\Release\EEG.pdb
+C:\EEG\EEG\obj\x86\Release\EEG.FormMain.resources
+C:\EEG\EEG\obj\x86\Release\EEG.Properties.Resources.resources
+C:\EEG\EEG\obj\x86\Release\EEG.csproj.GenerateResource.Cache
+C:\EEG\EEG\obj\x86\Release\EEG.csprojResolveAssemblyReference.cache

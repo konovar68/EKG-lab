@@ -1,0 +1,65 @@
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\bin\Debug\NMServer.exe
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\bin\Debug\NMServer.pdb
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+c:\users\vahtin\documents\visual studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\vahtin\Documents\Visual Studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+Z:\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+Z:\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\bin\Debug\NMServer.exe
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\bin\Debug\NMServer.pdb
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+E:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\bin\Debug\NMServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\bin\Debug\NMServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\bin\Debug\NMServer.exe
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\bin\Debug\NMServer.pdb
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.csproj.GenerateResource.Cache
+F:\Alexsey\Archive\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+F:\Alexsey\Archive\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\bin\Debug\NMServer.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\bin\Debug\NMServer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.csproj.GenerateResource.Cache
+C:\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+C:\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\NetManager\NMServer\bin\Debug\NMServer.exe
+C:\NetManager\NMServer\bin\Debug\NMServer.pdb
+C:\NetManager\NMServer\obj\x86\Debug\NMServer.csprojResolveAssemblyReference.cache
+C:\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+C:\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+C:\NetManager\NMServer\obj\x86\Debug\NMServer.csproj.GenerateResource.Cache
+\\NATASHA\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2012\Projects\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+K:\Archive\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+K:\Archive\Visual C#\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\alvah\Downloads\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+C:\Users\alvah\Downloads\NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\alvah\Downloads\NetManager\NMServer\bin\Debug\NMServer.exe
+C:\Users\alvah\Downloads\NetManager\NMServer\obj\x86\Debug\NMServer.csprojResolveAssemblyReference.cache
+C:\Users\alvah\Downloads\NetManager\NMServer\obj\x86\Debug\NetManager.FormServer.resources
+C:\Users\alvah\Downloads\NetManager\NMServer\obj\x86\Debug\NMServer.Properties.Resources.resources
+C:\Users\alvah\Downloads\NetManager\NMServer\obj\x86\Debug\NMServer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ \NetManager\NMServer\obj\x86\Debug\NMServer.exe
+C:\Users\user\Desktop\ \NetManager\NMServer\obj\x86\Debug\NMServer.pdb
+C:\Users\user\Desktop\ \Курсач\NetManager\NMServer\obj\x86\Debug\NMServer.exe
+C:\Users\user\Desktop\ \Курсач\NetManager\NMServer\obj\x86\Debug\NMServer.pdb

@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\bin\Debug\EEG.exe
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\bin\Debug\EEG.pdb
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.exe
+c:\users\user\documents\visual studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\EEG\EEG\obj\x86\Debug\EEG.exe
+C:\EEG\EEG\obj\x86\Debug\EEG.pdb
+C:\EEG\EEG\bin\Debug\EEG.exe
+C:\EEG\EEG\bin\Debug\EEG.pdb
+C:\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+C:\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+C:\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.exe
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.pdb
+F:\Alexsey\Архив\Visual C#\EEG\EEG\bin\Debug\EEG.exe
+F:\Alexsey\Архив\Visual C#\EEG\EEG\bin\Debug\EEG.pdb
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.csprojResolveAssemblyReference.cache
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.FormMain.resources
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.Properties.Resources.resources
+F:\Alexsey\Архив\Visual C#\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\EEG\obj\x86\Debug\EEG.csproj.GenerateResource.Cache

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <EEG>
+    <Window WindowState="Maximized" Left="68" Top="61" Width="1065" Height="817" DrawDisable="true" />
+    <Network Port="9000" IP="192.168.1.101" Name="ЭЭГ" />
+    <E1 FHF="0" FLF="0" Amplification="5" />
+    <E2 FHF="0" FLF="0" Amplification="5" />
+    <E3 FHF="0" FLF="0" Amplification="5" />
+    <E4 FHF="0" FLF="0" Amplification="5" />
+    <Channels Fp1-A1="1" F3-A1="1" C3-A1="1" P3-A1="1" O1-A1="1" F7-A1="1" T3-A1="1" T5-A1="1" Fz-A1="1" PZ-A1="1" A1-A2="1" Fp2-A2="1" F4-A2="1" C4-A2="1" P4-A2="1" O2-A2="1" F8-A2="1" T4-A2="1" T6-A2="1" Fpz-A2="1" Cz-A2="1" Oz-A2="1" E1="1" E2="1" E3="1" E4="1" />
+    <Save Checked="true" />
+    <Scale X="5" Y="0.0005" CountX="5" CountY="1" />
+    <Visible>
+      <Channel0 View="true" Color="-32640" />
+      <Channel1 View="true" Color="-8323200" />
+      <Channel2 View="true" Color="-8355585" />
+      <Channel3 View="true" Color="-8355712" />
+      <Channel4 View="true" Color="-128" />
+      <Channel5 View="true" Color="-32513" />
+      <Channel6 View="true" Color="-8323073" />
+      <Channel7 View="true" Color="-16711681" />
+      <Channel8 View="true" Color="-65281" />
+      <Channel9 View="true" Color="-256" />
+      <Channel10 View="true" Color="-32768" />
+      <Channel11 View="true" Color="-65408" />
+      <Channel12 View="true" Color="-16711808" />
+      <Channel13 View="true" Color="-16744193" />
+      <Channel14 View="true" Color="-8388353" />
+      <Channel15 View="true" Color="-8323328" />
+      <Channel16 View="true" Color="-16711936" />
+      <Channel17 View="true" Color="-65536" />
+      <Channel18 View="true" Color="-16776961" />
+      <Channel19 View="true" Color="-16777088" />
+      <Channel20 View="true" Color="-16744448" />
+      <Channel21 View="true" Color="-8388608" />
+      <Channel22 View="true" Color="-8339456" />
+      <Channel23 View="true" Color="-8388416" />
+      <Channel24 View="true" Color="-4161536" />
+      <Channel25 View="true" Color="-4194176" />
+      <Channel26 View="true" Color="-16727936" />
+      <Channel27 View="true" Color="-16744256" />
+      <Channel28 View="true" Color="-16744256" />
+    </Visible>
+    <FilterCC Enabled="false" Count="50">
+      <Coef Enabled="false">
+        <Coef1 Value="1" />
+        <Coef2 Value="1" />
+        <Coef3 Value="1" />
+        <Coef4 Value="1" />
+        <Coef5 Value="1" />
+        <Coef6 Value="1" />
+        <Coef7 Value="1" />
+        <Coef8 Value="1" />
+        <Coef9 Value="1" />
+        <Coef10 Value="1" />
+        <Coef11 Value="1" />
+        <Coef12 Value="1" />
+        <Coef13 Value="1" />
+        <Coef14 Value="1" />
+        <Coef15 Value="1" />
+        <Coef16 Value="1" />
+        <Coef17 Value="1" />
+        <Coef18 Value="1" />
+        <Coef19 Value="1" />
+        <Coef20 Value="1" />
+        <Coef21 Value="1" />
+        <Coef22 Value="1" />
+        <Coef23 Value="1" />
+        <Coef24 Value="1" />
+        <Coef25 Value="1" />
+        <Coef26 Value="1" />
+        <Coef27 Value="1" />
+        <Coef28 Value="1" />
+        <Coef29 Value="1" />
+        <Coef30 Value="1" />
+        <Coef31 Value="1" />
+        <Coef32 Value="1" />
+        <Coef33 Value="1" />
+        <Coef34 Value="1" />
+        <Coef35 Value="1" />
+        <Coef36 Value="1" />
+        <Coef37 Value="1" />
+        <Coef38 Value="1" />
+        <Coef39 Value="1" />
+        <Coef40 Value="1" />
+        <Coef41 Value="1" />
+        <Coef42 Value="1" />
+        <Coef43 Value="1" />
+        <Coef44 Value="1" />
+        <Coef45 Value="1" />
+        <Coef46 Value="1" />
+        <Coef47 Value="1" />
+        <Coef48 Value="1" />
+        <Coef49 Value="1" />
+        <Coef50 Value="1" />
+        <Coef51 Value="0" />
+        <Coef52 Value="0" />
+        <Coef53 Value="0" />
+        <Coef54 Value="0" />
+        <Coef55 Value="0" />
+        <Coef56 Value="0" />
+        <Coef57 Value="0" />
+      </Coef>
+    </FilterCC>
+    <Emulator Enabled="true" FileName="C:\Users\user\Downloads\eeg_01_11_2017_12_07_24 (1).dat" Disconnect="true" />
+  </EEG>
+</Settings>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <NetManager>
+    <Server liveTime="333330">
+      <Network Port="9000" />
+    </Server>
+  </NetManager>
+</Settings>

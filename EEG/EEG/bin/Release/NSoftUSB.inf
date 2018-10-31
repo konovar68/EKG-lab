@@ -1,0 +1,566 @@
+;****************************************************************************
+;
+;                       Copyright (c) Neurosoft,2001
+;                          All Rights Reserved
+;
+;****************************************************************************
+;
+;   Title:          NSoftUSB.INF
+;
+;   Description: .inf file for  NeuroSoft USB Device
+;
+;   Date:          13/06/2001
+;
+;   Author:        Loginov I.V.
+;
+;------------------------------------------------------------------------------
+;
+;   Change log:
+;
+;       DATE     			DESCRIPTION
+;     ----------       -----------------------------------------------------------
+;	10/09/2001	Added PolySpectr PID 8400 / Yevgeny A. Romanov	
+;	11/12/2001	Added Audio-visual stimulator PID 8500 / Yevgeny A. Romanov
+;	14/12/2001	Added Neurosoft Poly-Spectrum-Radio PID 8600 / Yevgeny A. Romanov
+;	15/02/2002	Added Neurosoft Electromiograph Neuro-EMG-Micro PID 8201 / Yevgeny A. Romanov
+;	22/03/2002      Added spirometr PID 8700 / Ivan V. Loginov
+;	11/04/2002      1.Added Poly-Spectrum 8 PID 8410 
+;			2.Numeration was changed:
+;				- Radio-ECG PID 8600 -> 8420
+;				- Spirometr PID 8700 -> 8600
+;						/ Ivan V. Loginov
+;	30/04/2002      Added: 
+;			8210	Electroencephalograph Neuron-Spectr-3
+;			8220	Electroencephalograph Neuron-Spectr-2
+;			8230	Electroencephalograph Neuron-Spectr-1 
+;						/ Ivan V. Loginov
+;	10/06/2002      Added:
+;			8700    VNS-Spectrum
+;						/ Ivan V. Loginov
+;	05/07/2002      Added:
+;			8800    RHEO-Spectrum
+;						/ Ivan V. Loginov
+;	10/09/2002	Added:
+;			8250	 Electroencephalograph Neuron-Spectr-EP
+;						 / Yevgeny A. Romanov	
+;	17/09/2002      Copyfiles uncommented in section [NSUSB.Dev.NT] a string:
+;			"CopyFiles=NSUSB.Files.Ext, NSUSB.Files.Inf"
+;						/ Ivan V. Loginov
+;	19/10/2002      Added:
+;			8780   Photo-Plethysmograph
+;						/ Ivan V. Loginov
+;
+;	10/12/2002      Copyfiles commented in section [NSUSB.Dev.NT] a string:
+;			"CopyFiles=NSUSB.Files.Ext, NSUSB.Files.Inf"
+;						/ Ivan V. Loginov
+;	18/12/2002      Added:
+;			8801    RHEO-Spectrum	
+;						/ Ivan V. Loginov
+;	12/03/2003      
+;			1.Added: 
+;				"Neurosoft Spiro-Spectrum Calibration Pump" PID 8601
+;			2.Name was changed:
+;				For PID 8600 "Neurosoft digital Spirometer system"-> "Neurosoft Spiro-Spectrum Spirometer System"
+;						/ Ivan V. Loginov
+;
+;       23/04/2003      Added:
+;                       8900    NS-PsychoTest Visual Tube («рительна€ труба к ѕсихотестеру)
+;                                               / Dennis V. Maslov              
+;	05/05/2003      Added:
+;			8310    Magnetic Stimulator
+;						/ Ivan V. Loginov
+;	23/05/2003      Added:
+;			8320    Hight Resolution Pattern Adapter
+;						/ Ivan V. Loginov
+;	27/05/2003      Added:
+;			8251	Electroencephalograph Neuron-Spectr-1M
+;			8252	Electroencephalograph Neuron-Spectr-2M
+;			8253	Electroencephalograph Neuron-Spectr-3M
+;			8254	Electroencephalograph Neuron-Spectr-4M
+;			8255    Neuro-EMG-Micro-4 EMG system
+;			8256    Neuro-EMG-Micro-2 EMG system
+;						/ Yevgeny A. Romanov
+;
+;	11/07/2003	Added:
+;			8901	NS-PsychoTest Dynamometer
+;						/ Dennis V. Maslov              
+;	10/09/2002	Added:
+;			8580	 Neuro-Audio
+;						 / Yevgeny A. Romanov	
+;	10/09/2003      Added:
+;			8701   Neurosoft Digital research system VNS-Micro
+;			8702   Neurosoft Digital research system VNS-Rhythm
+;						/ Ivan V. Loginov
+;	15/09/2003      Ver. 1.0
+;			Added:
+;					INF DriverVer Directive
+;						/ Ivan V. Loginov
+;
+;	13/10/2003	Ver. 1.1
+;			Added:
+;			8902	NS-PsychoTest Tepping Test
+;						/ Dennis V. Maslov    
+;
+;	16/12/2003	Ver. 1.2
+;			Added:
+;			8903	NS-PsychoTest Visual-Motor Analyzer
+;						/ Dennis V. Maslov    
+;	17/12/2003 Ver. 1.3
+;			Added:
+;						device class display name, shown in Device Manager
+;						/ Ivan V. Loginov
+;	24/12/2003	Ver. 1.4
+;			Added:
+;			8260	 Neuro-EMG EMG system
+;						 / Yevgeny A. Romanov	
+;	26/12/2003	Ver. 1.5
+;			Correct all succs:
+;						 / Michael U. Durdin	
+;	14/01/2004	Ver. 1.6
+;			Added:
+;			8430	 Neurosoft Poly-Spectrum-12E 12-channels Digital ECG System
+;						 / Yevgeny A. Romanov	
+;  			8422	Neurosoft Poly-Spectrum Radio ECG System (Polar)
+;						/ Ivan V. Loginov
+;	03/15/2004	Ver. 1.07
+;			Added:
+;  			8904	"Neurosoft NS-PsychoTest Keyboard"
+;						/ Ivan V. Loginov
+;	03/22/2004	Ver. 1.08
+;			Added:
+;  			8905	"Neurosoft NS-PsychoTest Coordination Meter"
+;						/ Roman A. Shishkov
+;  			8703	"Neurosoft Digital Research System VNS-Spectrum-4T"
+;						/ Ivan V. Loginov
+;	04/16/2004	Ver. 1.09
+;			Canged:
+;			8260	"Neuro-MEP-Micro"
+;						/Yevgeny A. Romanov
+;	07/07/2004	Ver. 1.10
+;			Aded:
+;			8510	"Ganzfeld"
+;			8330	"Tendon Hammer"
+;						/Yevgeny A. Romanov
+;	07/12/2004	Ver. 1.11
+;			Added:
+;			8420	"Neurosoft Poly-Spectrum Animals"
+;						/ Ivan V. Loginov
+;
+;	08/17/2004	Ver. 1.12
+;			Added:
+;			8440	"Neurosoft Reader For EventRecorder"
+;						/ Dennis V. Maslov
+;	01/01/2005	Ver. 1.13
+;			Aded:
+;			8261    Neuro-EMG-Micro-2M EMG system
+;						/Yevgeny A. Romanov
+;	03/25/2005	Ver. 1.14
+;			Aded:
+;			8010    Themperature Sensor    
+;						/Ilya M. Solovyev
+;	03/30/2005	Ver. 1.15
+;			Added:
+;			8411	"Neurosoft Poly-Spectrum-8/V 12-channels Digital ECG System"
+;						/ Ivan V. Loginov
+;	04/10/2005	Ver. 1.16
+;			Aded:
+;			8020    USB Pulse Oximeter    
+;						/Ilya M. Solovyev
+;	05/12/2005	Ver. 1.17
+;			Aded:
+;			8490    Neurosoft Poly-Spectrum-SM Ambulatory ECG Recorder   
+;						/Alex B. Orlov
+;	05/24/2005	Ver. 1.18
+;			Aded:
+;			8021    USB Blood Pressurer    
+;						/Ilya M. Solovyev
+;	02/09/2005      Ver. 1.19
+;			Added:
+;			8270	 Electroencephalograph Neuron-Spectr-5
+;						/Yevgeny A. Romanov
+;	12/26/2005      Ver. 1.20
+;			Added:
+;			8311    Magnetic Stimulator
+;			8906	Neurosoft Digital Research System VNS-Micro-M"
+;						/ Ivan V. Loginov
+;	02/09/2005      Ver. 1.21
+;			Added:
+;			8907	Neurosoft NS-PsychoTest Phono Stimulator
+;						/ Ivan V. Loginov
+;	05/04/2006      Ver. 1.22
+;			Added:
+;			8022	Neurosoft CO2 and O2
+;						/ Ivan V. Loginov
+;	08/16/2006      Ver. 1.23
+;			Changed:
+;			"Neurosoft Poly-Spectrum Animals" -> "Neurosoft Poly-Spectrum MRIS"
+;						/ Ivan V. Loginov
+;	09/26/2006      Ver. 1.24
+;			Added:
+;			0x8423 "Neurosoft Poly-Spectrum Transmitter"
+;						/ Ivan V. Loginov
+;	11/02/2006      Ver. 1.25
+;			Added:
+;			0x8520 "Neurosoft Video Stimulator"
+;						/ Ivan V. Loginov
+;	02/03/2007      Ver. 1.26/1.27
+;			Added:
+;			8257	 "Neurosoft Neuron-Spectrum-4/P digital EEG system"
+;						/Yevgeny A. Romanov
+;******************************************************************************
+
+[Version]
+Signature="$CHICAGO$"
+Class=NeuroSoftUSBdevices
+ClassGUID={E488380F-E249-4b22-9848-D203EE085313}
+provider=%Neurosoft%
+LayoutFile=layout.inf
+% !!!!! ‘ормат даты ->  мес€ц/число/год
+DriverVer=02/03/2007,1.27
+
+[Manufacturer]
+%Neurosoft%=Neurosoft
+
+[ControlFlags]
+ExcludeFromSelect =* 
+
+[Neurosoft]
+; NS USB HASP
+%USB\VID_ACCA&PID_8002.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8002
+
+;Bioamplifier for EMG/EP
+%USB\VID_ACCA&PID_8003.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8003
+
+;USB Thermometer
+%USB\VID_ACCA&PID_8010.DeviceDesc%=DriverInstall,USB\VID_ACCA&PID_8010
+
+;USB Pulse Oximeter
+%USB\VID_ACCA&PID_8020.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8020
+
+;USB Blood Pressurer
+%USB\VID_ACCA&PID_8021.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8021
+
+%USB\VID_ACCA&PID_8022.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8022
+
+
+;Electroencephalograph Neuron-Spectr-4
+%USB\VID_ACCA&PID_8200.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8200
+
+;Electromiograph Neuro-EMG-Micro
+%USB\VID_ACCA&PID_8201.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8201
+
+
+;Neurosoft Neuron-Spectrum-3 digital EEG system
+%USB\VID_ACCA&PID_8210.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8210
+
+;Neurosoft Neuron-Spectrum-2 digital EEG system
+%USB\VID_ACCA&PID_8220.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8220
+
+;Neurosoft Neuron-Spectrum-1 digital EEG system
+%USB\VID_ACCA&PID_8230.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8230
+
+;Neurosoft Neuron-Spectrum-4/EP digital EEG system
+%USB\VID_ACCA&PID_8250.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8250
+;Neurosoft Neuron-Spectrum-1M digital EEG system
+%USB\VID_ACCA&PID_8251.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8251
+;Neurosoft Neuron-Spectrum-2M digital EEG system
+%USB\VID_ACCA&PID_8252.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8252
+;Neurosoft Neuron-Spectrum-3M digital EEG system
+%USB\VID_ACCA&PID_8253.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8253
+;Neurosoft Neuron-Spectrum-4M digital EEG system
+%USB\VID_ACCA&PID_8254.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8254
+;Electromiograph Neuro-EMG-Micro-4
+%USB\VID_ACCA&PID_8255.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8255
+;Electromiograph Neuro-EMG-Micro-4
+%USB\VID_ACCA&PID_8256.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8256
+;Electromiograph Neuro-MEP
+%USB\VID_ACCA&PID_8257.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8257
+;Neurosoft Neuron-Spectrum-P digital EEG system
+%USB\VID_ACCA&PID_8260.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8260
+;Electromiograph Neuro-EMG-Micro-2M
+%USB\VID_ACCA&PID_8261.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8261
+;Neurosoft Neuron-Spectrum-5 digital EEG system
+%USB\VID_ACCA&PID_8270.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8270
+
+;Electrostimulator ElectroStim
+%USB\VID_ACCA&PID_8300.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8300
+
+;Magnetic Stimulator
+%USB\VID_ACCA&PID_8310.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8310
+%USB\VID_ACCA&PID_8311.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8311
+
+;Hight Resolution Pattern Adapter
+%USB\VID_ACCA&PID_8320.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8320
+
+;Neurosoft Tendon Hammer
+%USB\VID_ACCA&PID_8330.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8330
+
+;Electrocardiograph PolySpectr
+%USB\VID_ACCA&PID_8400.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8400
+
+;Neurosoft Poly-Spectrum 8
+%USB\VID_ACCA&PID_8410.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8410
+%USB\VID_ACCA&PID_8411.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8411
+
+;Radio-ECG
+%USB\VID_ACCA&PID_8420.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8420
+%USB\VID_ACCA&PID_8421.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8421
+%USB\VID_ACCA&PID_8422.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8422
+%USB\VID_ACCA&PID_8423.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8423
+
+;Neurosoft Poly-Spectrum 12E
+%USB\VID_ACCA&PID_8430.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8430
+
+;Neurosoft Reader For EventRecorder
+%USB\VID_ACCA&PID_8440.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8440
+
+;Neurosoft Cardio Daily Recorder
+%USB\VID_ACCA&PID_8490.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8490
+
+;Stimulators for EP
+%USB\VID_ACCA&PID_8500.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8500
+;Ganzfield Stimulator
+%USB\VID_ACCA&PID_8510.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8510
+%USB\VID_ACCA&PID_8520.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8520
+;Neuro-Audio
+%USB\VID_ACCA&PID_8580.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8580
+
+;Spirometr
+%USB\VID_ACCA&PID_8600.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8600
+%USB\VID_ACCA&PID_8601.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8601
+
+;Zond
+%USB\VID_ACCA&PID_8680.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8680
+
+;VNS-
+%USB\VID_ACCA&PID_8700.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8700
+%USB\VID_ACCA&PID_8701.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8701
+%USB\VID_ACCA&PID_8702.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8702
+%USB\VID_ACCA&PID_8703.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8703
+
+;Neurosoft Photo-Plethysmograph
+%USB\VID_ACCA&PID_8780.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8780
+
+;Neurosoft REO-Spectrum
+%USB\VID_ACCA&PID_8800.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8800
+%USB\VID_ACCA&PID_8801.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8801
+
+;Neurosoft NS-PsychoTest
+%USB\VID_ACCA&PID_8900.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8900
+%USB\VID_ACCA&PID_8901.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8901
+%USB\VID_ACCA&PID_8902.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8902
+%USB\VID_ACCA&PID_8903.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8903
+%USB\VID_ACCA&PID_8904.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8904
+%USB\VID_ACCA&PID_8905.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8905
+%USB\VID_ACCA&PID_8906.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8906
+%USB\VID_ACCA&PID_8907.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_8907
+
+;Test Devices
+%USB\VID_ACCA&PID_0001.DeviceDesc%=NSUSB.Dev,USB\VID_ACCA&PID_0001
+
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[DestinationDirs]
+NSUSB.Files.Ext = 10,System32\Drivers
+NSUSB.Files.Inf = 10,INF
+
+;------------------------------------------------------------------------------
+;  Windows 2000 Sections
+;------------------------------------------------------------------------------
+; install class, Windows 2000:
+[ClassInstall32] 
+AddReg=_AddReg_ClassInstall
+
+[NSUSB.Dev.NT]
+; copyfiles commented out for Win2K to avoid user intervention during install
+;CopyFiles=NSUSB.Files.Ext, NSUSB.Files.Inf
+AddReg=NSUSB.AddReg
+
+[NSUSB.Dev.NT.Services]
+Addservice = NSUSB, 0x00000002, NSUSB.AddService
+
+[NSUSB.AddService]
+DisplayName    = %NSUSB.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 2                   ; SERVICE_AUTO_START
+ErrorControl   = 1                   ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\ezusb.sys
+LoadOrderGroup = Base
+
+
+;------------------------------------------------------------------------------
+;  Windows 98 Sections
+;------------------------------------------------------------------------------
+; install class, Windows 98:
+[ClassInstall] 
+AddReg=_AddReg_ClassInstall
+
+[NSUSB.Dev]
+CopyFiles=NSUSB.Files.Ext, NSUSB.Files.Inf
+AddReg=NSUSB.AddReg
+
+;---------------------------------------------------------------;
+
+; registry entries required for class 
+[_AddReg_ClassInstall]
+HKR,,,,"%NeurosoftDeviceClassDisplayName%"
+HKR,,Icon,,"-20"
+
+[NSUSB.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,ezusb.sys
+
+[NSUSB.Files.Ext]
+ezusb.sys
+
+[NSUSB.Files.Inf]
+NSoftUSB.Inf
+
+
+;------------------------------------------------------------------------------
+;  Windows 2000 Sections
+;------------------------------------------------------------------------------
+
+[DriverInstall.NT]
+CopyFiles=DriverCopyFiles
+
+[DriverCopyFiles]
+; copyfiles commented out for Win2K to avoid user intervention during install
+;SiF32x.sys,,,2
+;SiLib.sys,,,2
+
+[DriverInstall.NT.Services]
+AddService=SIF32X,2,DriverService
+
+[DriverService]
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%10%\system32\drivers\SiF32x.sys
+
+[DriverInstall.nt.hw]
+AddReg=DriverHwAddReg
+
+[DriverHwAddReg]
+HKR,,FriendlyName,,%Neurosoft%
+
+
+;------------------------------------------------------------------------------
+;  Windows 98 Sections
+;------------------------------------------------------------------------------
+
+[DriverInstall]
+AddReg=DriverAddReg
+CopyFiles=DriverCopyFiles98
+
+[DriverCopyFiles98]
+SiF32x.sys
+wdmstub.sys
+SiLib.sys
+
+[DriverAddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,"wdmstub.sys,,SiF32x.sys"
+						
+[DriverInstall.HW]
+AddReg=DriverHwAddReg
+
+
+
+;------------------------------------------------------------------------------
+;  String Definitions
+;------------------------------------------------------------------------------
+[Strings]
+Neurosoft="Neurosoft"
+NSUSB.SvcDesc="Neurosoft General Purpose USB Driver (ezusb.sys)"
+
+; device class display name, shown in Device Manager
+NeurosoftDeviceClassDisplayName="Neurosoft USB Devices"
+
+USB\VID_ACCA&PID_8002.DeviceDesc="Neurosoft KEY"
+USB\VID_ACCA&PID_8003.DeviceDesc="Neurosoft Neuro-MEP Amplifier"
+
+USB\VID_ACCA&PID_8010.DeviceDesc="Neurosoft USB Thermometer"
+USB\VID_ACCA&PID_8020.DeviceDesc="Neurosoft USB Pulse Oximeter"
+USB\VID_ACCA&PID_8021.DeviceDesc="USB Blood Pressurer"
+USB\VID_ACCA&PID_8022.DeviceDesc="Neurosoft CO2 and O2"
+
+
+;
+USB\VID_ACCA&PID_8200.DeviceDesc="Neurosoft Neuron-Spectrum-4 (v.1) 25-channels Digital EEG System"
+USB\VID_ACCA&PID_8201.DeviceDesc="Neurosoft Neuro-EMG-Micro EMG System"
+USB\VID_ACCA&PID_8210.DeviceDesc="Neurosoft Neuron-Spectrum-3 (v.1) Digital EEG System"
+USB\VID_ACCA&PID_8220.DeviceDesc="Neurosoft Neuron-Spectrum-2 (v.1) Digital EEG System"
+USB\VID_ACCA&PID_8230.DeviceDesc="Neurosoft Neuron-Spectrum-1 (v.1) Digital EEG System"
+
+USB\VID_ACCA&PID_8250.DeviceDesc="Neurosoft Neuron-Spectrum-4/EP Digital EEG System"
+USB\VID_ACCA&PID_8251.DeviceDesc="Neurosoft Neuron-Spectrum-1 Digital EEG System"
+USB\VID_ACCA&PID_8252.DeviceDesc="Neurosoft Neuron-Spectrum-2 Digital EEG System"
+USB\VID_ACCA&PID_8253.DeviceDesc="Neurosoft Neuron-Spectrum-3 Digital EEG System"
+USB\VID_ACCA&PID_8254.DeviceDesc="Neurosoft Neuron-Spectrum-4 Digital EEG System"
+USB\VID_ACCA&PID_8255.DeviceDesc="Neurosoft Neuro-EMG-Micro-4 EMG System"
+USB\VID_ACCA&PID_8256.DeviceDesc="Neurosoft Neuro-EMG-Micro-2 EMG System"
+USB\VID_ACCA&PID_8257.DeviceDesc="Neurosoft Neuron-Spectrum-4/P digital EEG system"
+USB\VID_ACCA&PID_8260.DeviceDesc="Neuro-MEP-Micro"
+USB\VID_ACCA&PID_8261.DeviceDesc="Neuro-EMG-Micro-2M EMG system"
+USB\VID_ACCA&PID_8270.DeviceDesc="Neurosoft Neuron-Spectrum-5 Digital EEG System"
+
+
+;Stimulators
+USB\VID_ACCA&PID_8300.DeviceDesc="Neurosoft Electrostimulator"
+USB\VID_ACCA&PID_8310.DeviceDesc="Neurosoft Magnetic Stimulator"
+USB\VID_ACCA&PID_8311.DeviceDesc="Neurosoft Magnetic Stimulator"
+USB\VID_ACCA&PID_8320.DeviceDesc="Neurosoft Hight Resolution Pattern Adapter"
+USB\VID_ACCA&PID_8330.DeviceDesc="Neurosoft Tendon Hammer"
+
+;Neurosoft Poly-Spectrum
+USB\VID_ACCA&PID_8400.DeviceDesc="Neurosoft Poly-Spectrum-12 12-channels Digital ECG System"
+USB\VID_ACCA&PID_8410.DeviceDesc="Neurosoft Poly-Spectrum-8 12-channels Digital ECG System" 
+USB\VID_ACCA&PID_8411.DeviceDesc="Neurosoft Poly-Spectrum-8/V 12-channels Digital ECG System" 
+;USB\VID_ACCA&PID_8420.DeviceDesc="Neurosoft Poly-Spectrum Animals"
+USB\VID_ACCA&PID_8420.DeviceDesc="Neurosoft Poly-Spectrum MRIS"
+USB\VID_ACCA&PID_8421.DeviceDesc="Neurosoft Poly-Spectrum Radio ECG System"
+USB\VID_ACCA&PID_8422.DeviceDesc="Neurosoft Poly-Spectrum Radio ECG System (Polar)"
+USB\VID_ACCA&PID_8423.DeviceDesc="Neurosoft Poly-Spectrum Radio ECG Transmitter System "
+USB\VID_ACCA&PID_8430.DeviceDesc="Neurosoft Poly-Spectrum-12E 12-channels Digital ECG System" 
+USB\VID_ACCA&PID_8440.DeviceDesc="Neurosoft Reader For EventRecorder" 
+
+
+USB\VID_ACCA&PID_8490.DeviceDesc="Neurosoft Poly-Spectrum-SM Ambulatory ECG Recorder"
+
+
+USB\VID_ACCA&PID_8500.DeviceDesc="Neurosoft Audio-Video Stimulator"
+USB\VID_ACCA&PID_8510.DeviceDesc="Neurosoft Ganzfield Stimulator"
+USB\VID_ACCA&PID_8520.DeviceDesc="Neurosoft Video Stimulator"
+USB\VID_ACCA&PID_8580.DeviceDesc="Neurosoft Neuro-Audio"
+
+USB\VID_ACCA&PID_8600.DeviceDesc="Neurosoft Spiro-Spectrum Spirometer System"
+USB\VID_ACCA&PID_8601.DeviceDesc="Neurosoft Spiro-Spectrum Calibration Pump"
+
+USB\VID_ACCA&PID_8680.DeviceDesc="Neurosoft Zond"
+
+;Neurosoft Digital research system VNS
+USB\VID_ACCA&PID_8700.DeviceDesc="Neurosoft Digital Research System VNS-Spectrum"
+USB\VID_ACCA&PID_8701.DeviceDesc="Neurosoft Digital Research System VNS-Micro"
+USB\VID_ACCA&PID_8702.DeviceDesc="Neurosoft Digital Research System VNS-Rhythm"
+USB\VID_ACCA&PID_8703.DeviceDesc="Neurosoft Digital Research System VNS-Spectrum-4T"
+
+USB\VID_ACCA&PID_8780.DeviceDesc="Neurosoft Photo-Plethysmograph"
+
+USB\VID_ACCA&PID_8800.DeviceDesc="Neurosoft RHEO-Spectrum v.2"
+USB\VID_ACCA&PID_8801.DeviceDesc="Neurosoft RHEO-Spectrum v.1"
+
+;Neurosoft NS-PsychoTest
+USB\VID_ACCA&PID_8900.DeviceDesc="Neurosoft NS-PsychoTest Visual Tube"
+USB\VID_ACCA&PID_8901.DeviceDesc="Neurosoft NS-PsychoTest Dynamometer"
+USB\VID_ACCA&PID_8902.DeviceDesc="Neurosoft NS-PsychoTest Tepping Test"
+USB\VID_ACCA&PID_8903.DeviceDesc="Neurosoft NS-PsychoTest Visual-Motor Analyzer"
+USB\VID_ACCA&PID_8904.DeviceDesc="Neurosoft NS-PsychoTest Keyboard"
+USB\VID_ACCA&PID_8905.DeviceDesc="Neurosoft NS-PsychoTest Coordination Meter"
+USB\VID_ACCA&PID_8906.DeviceDesc="Neurosoft Digital Research System VNS-Micro-M"
+USB\VID_ACCA&PID_8907.DeviceDesc="Neurosoft NS-PsychoTest Phono Stimulator"
+
+;Test Devices
+USB\VID_ACCA&PID_0001.DeviceDesc="Neurosoft Test Device"

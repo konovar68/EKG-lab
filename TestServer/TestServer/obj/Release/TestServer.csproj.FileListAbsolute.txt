@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\bin\Release\TestServer.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\bin\Release\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\bin\Release\TestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Release\TestServer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Release\TestServer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Release\TestServer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Release\TestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Wavlet\TestServer\obj\Release\TestServer.pdb

@@ -1,0 +1,165 @@
+﻿<Window x:Class="WpfEEG.MainWindow"
+        Name="WindowEEG"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Считыватель ЭЭГ" Height="600" Width="900" Background="#FFF7F7F7" 
+        xmlns:my="clr-namespace:eisiWare;assembly=NumericUpDown"
+        xmlns:local="clr-namespace:WpfEEG" Closing="WindowEEG_Closing">
+    <Window.Resources>
+        <local:ColorConverter x:Key="ColorConverter" />
+        <local:ConverterIP x:Key="ConverterIP" />
+        <Style x:Key="FixedColumn" TargetType="{x:Type DataGridCell}">
+            <Setter Property="Background" Value="#FFF7F7F7" />
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="BorderThickness" Value="0" />
+        </Style>
+        <Style x:Key="DataGridCellStyle" TargetType="{x:Type DataGridCell}">
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="true">
+                    <Setter Property="Background" Value="Transparent" />
+                    <Setter Property="Foreground" Value="Black" />
+                    <Setter Property="BorderThickness" Value="0" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>        
+        <Style x:Key="ColorCell" TargetType="{x:Type DataGridCell}">
+            <Setter Property="Background" Value="{Binding Color, Converter={StaticResource ColorConverter}}" />
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="BorderThickness" Value="0" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240" />
+            <ColumnDefinition Width="175" />
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="301*"  MinHeight="230" />
+            <RowDefinition Height="260*" MinHeight="50" />
+        </Grid.RowDefinitions>
+        <GroupBox Grid.Row="0" Grid.RowSpan="2" Header="Считывание данных" HorizontalAlignment="Left" Grid.Column="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="267" />
+                    <RowDefinition Height="173*" />
+                    <RowDefinition Height="95" />
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0">
+                    <GroupBox Header="Фильтры" Height="136" HorizontalAlignment="Stretch" >
+                        <Grid>
+                            <DataGrid AutoGenerateColumns="False" Name="dgChannelFilter" Background="#FFD0D0D0" HeadersVisibility="Column" CellStyle="{StaticResource DataGridCellStyle}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn CanUserResize="False" CanUserSort="False" Header="Канал" IsReadOnly="True" Width="48" Binding="{Binding [0]}" CellStyle="{StaticResource FixedColumn}" />
+                                    <DataGridComboBoxColumn CanUserResize="False" CanUserSort="False" Header="ВЧ" Width="78" SelectedItemBinding="{Binding [1]}" /> 
+                                    <DataGridComboBoxColumn CanUserResize="False" CanUserSort="False" Header="НЧ" Width="78" SelectedItemBinding="{Binding [2]}" /> 
+                                </DataGrid.Columns>                                
+                            </DataGrid>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Усиление каналов" Height="136">
+                        <Grid>
+                            <DataGrid AutoGenerateColumns="False" Name="dgAmp" Background="#FFD0D0D0" HeadersVisibility="Column" CellStyle="{StaticResource DataGridCellStyle}">
+                                <DataGrid.Columns>
+                                    <DataGridTextColumn CanUserResize="False" Header="Канал" IsReadOnly="True" MinWidth="20" Width="59" Binding="{Binding [0]}" CellStyle="{StaticResource FixedColumn}" />
+                                    <DataGridComboBoxColumn Header="Размах" CanUserResize="False" MinWidth="20" Width="100" SelectedItemBinding="{Binding [1]}" />
+                                </DataGrid.Columns>
+                            </DataGrid>
+                        </Grid>
+                    </GroupBox>
+                </StackPanel>
+                <GroupBox Header="Назначение каналов" Grid.Row="1" >
+                    <DataGrid AutoGenerateColumns="False" Name="dgChannels" Background="#FFD0D0D0" HeadersVisibility="Column" CellStyle="{StaticResource DataGridCellStyle}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn CanUserResize="False" Header="Канал" IsReadOnly="True" MinWidth="20" Width="50" Binding="{Binding [0]}" CellStyle="{StaticResource FixedColumn}" />
+                            <DataGridComboBoxColumn CanUserResize="False" Header="Назначение" Width="140" SelectedItemBinding="{Binding [1]}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </GroupBox>
+                <ComboBox Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="8,25,0,0" Name="cbFrequensy" VerticalAlignment="Top" Width="196" SelectedIndex="{Binding FrequensyIndex}">
+                    <ComboBoxItem Content="1000 Гц" />
+                    <ComboBoxItem Content="5000 Гц" />
+                </ComboBox>
+                <Label Content="Частота дискретизации:" Grid.Row="2" HorizontalAlignment="Left" Margin="8,0,0,0" VerticalAlignment="Top" />
+                <Button Content="Старт" Grid.Row="2" Height="23" Margin="0,62,0,0" Name="btnStart" VerticalAlignment="Top" Width="75" Click="btnStart_Click" />
+            </Grid>
+        </GroupBox>
+        <Grid Grid.Column="1" Grid.Row="0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150*" MinHeight="150" />
+                <RowDefinition Height="77" />
+            </Grid.RowDefinitions>
+            <GroupBox Grid.Row="0" Header="      Фильтр свертка" Width="175" HorizontalAlignment="Left">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="8*" />
+                        <ColumnDefinition Width="155*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="83" />
+                        <RowDefinition Height="106*" />
+                    </Grid.RowDefinitions>
+                    <CheckBox Height="16" HorizontalAlignment="Left" Margin="2,-15,0,0" Name="chFilterCC" VerticalAlignment="Top" IsChecked="{Binding IsFilterCC}" Grid.ColumnSpan="2" Checked="chFilterCC_Checked" Unchecked="chFilterCC_Checked" />
+                    <my:NumericUpDown Height="23" HorizontalAlignment="Left" Margin="0,25,0,0" Name="numberFilterCC" VerticalAlignment="Top" Width="134" MinValue="1" MaxValue="100000" Value="50" Grid.Column="1" ValueChanged="numberFilterCC_ValueChanged" IsEnabled="False" />
+                    <Label Content="Длина окна:" HorizontalAlignment="Left" Margin="0,1,0,0" VerticalAlignment="Top" Grid.Column="1" />
+                    <CheckBox Content="Коэффициенты" Height="16" HorizontalAlignment="Left" Margin="0,58,0,0" Name="chCoefCC" VerticalAlignment="Top" IsChecked="{Binding IsCoefCC}" Grid.Column="1" IsEnabled="False" Checked="chCoefCC_Checked" Unchecked="chCoefCC_Checked" />
+                    <Button Content="..." Height="23" HorizontalAlignment="Left" Margin="111,54,0,0" Name="btnCoefCC" VerticalAlignment="Top" Width="23" Grid.Column="1" IsEnabled="False" Click="btnCoefCC_Click" />
+                    <DataGrid AutoGenerateColumns="False" Grid.Row="1" Name="dgFilterCC" Background="#FFD0D0D0" CellStyle="{StaticResource DataGridCellStyle}" HeadersVisibility="All" LoadingRow="dgFilterCC_LoadingRow" Grid.ColumnSpan="2" Loaded="numberFilterCC_ValueChanged" IsEnabled="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Коэффициент" Width="100" Binding="{Binding [0]}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </GroupBox>
+            <GroupBox Grid.Row="1" Header="Масштаб" >
+                <Grid>
+                    <Label Content="X" Height="28" HorizontalAlignment="Left" Margin="8,1,0,0" VerticalAlignment="Top" />
+                    <Label Content="Y" Height="28" HorizontalAlignment="Left" Margin="86,1,0,0" VerticalAlignment="Top" />
+                    <TextBox Name="nScaleX" Text="{Binding ScaleX}" Height="23" HorizontalAlignment="Left" Margin="8,22,0,0" VerticalAlignment="Top" Width="70" />
+                    <TextBox Name="nScaleY" Text="{Binding ScaleY}" Height="23" HorizontalAlignment="Left" Margin="86,22,0,0" VerticalAlignment="Top" Width="70" />
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <DataGrid Grid.Column="1" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" Name="dgDrawChannels" Background="#FFD0D0D0" HeadersVisibility="Column" CellStyle="{StaticResource DataGridCellStyle}" MouseDoubleClick="dgDrawChannels_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn CanUserResize="False" Width="20" Binding="{Binding Visible}" />
+                <DataGridTextColumn CanUserResize="False" IsReadOnly="True" Width="130" Binding="{Binding Name}" CellStyle="{StaticResource ColorCell}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <GridSplitter Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Height="4" VerticalAlignment="Top" HorizontalAlignment="Stretch" />
+        <GroupBox Grid.Column="2" Header="Сеть" Height="156" HorizontalAlignment="Left" VerticalAlignment="Top" Width="236">
+            <Grid>
+                <Label Content="IP" Height="28" HorizontalAlignment="Left" Margin="8,2,0,0" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="8,24,0,0" Name="tbIP" VerticalAlignment="Top" Width="100" Text="{Binding ElementName=WindowEEG, Path=IP, Converter={StaticResource ConverterIP}}" />
+                <Label Content="Порт" Height="28" HorizontalAlignment="Left" Margin="116,2,0,0" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="116,24,0,0" Name="tbPort" VerticalAlignment="Top" Width="100" Text="{Binding ElementName=WindowEEG, Path=Port}" />
+                <Label Content="Название" Height="28" HorizontalAlignment="Left" Margin="8,47,0,0" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="8,69,0,0" Name="tbName" VerticalAlignment="Top" Width="208" Text="{Binding ElementName=WindowEEG, Path=NetName}" />
+                <Button Content="Подключить" Height="23" Margin="0,102,0,0" Name="btnConnect" VerticalAlignment="Top" Width="100" Click="btnConnect_Click" />
+            </Grid>
+        </GroupBox>
+        <Rectangle Grid.Column="2" Margin="0,156,0,0" Stroke="Black" Fill="White" />
+        <ListBox Grid.Column="2" Margin="0,156,0,0" ItemsSource="{Binding Destinations}"  >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <CheckBox IsChecked="{Binding IsChecked}" Content="{Binding Content}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <CheckBox Content="Отправлять данные с файла:" Grid.Column="2" Height="16" HorizontalAlignment="Left" Margin="245,6,0,0" Name="chLoadFromFile" VerticalAlignment="Top" IsChecked="{Binding IsLoadFromFile}" Checked="chLoadFromFile_Checked" />
+        <Button Content="..." Grid.Column="2" Height="23" HorizontalAlignment="Right" Margin="0,24,8,0" Name="btnLoadFromFile" VerticalAlignment="Top" Width="23" Click="btnLoadFromFile_Click" />
+        <TextBox Grid.Column="2" Height="23" HorizontalAlignment="Stretch" Margin="245,24,30,0" Name="tbLoadFromFile" VerticalAlignment="Top" Text="{Binding LoadFromFileName}" />
+        <CheckBox Content="Отключить по завершении" Grid.Column="2" Height="16" HorizontalAlignment="Left" Margin="245,57,0,0" Name="chLoadFromFileDisconnect" VerticalAlignment="Top" IsChecked="{Binding IsLoadFromFileDisconnect}" />
+        <CheckBox Content="Отключить отрисовку" Grid.Column="2" Height="16" HorizontalAlignment="Left" Margin="245,97,0,0" Name="chDrawDisable" VerticalAlignment="Top" IsChecked="{Binding IsDrawDisable}" />
+        <CheckBox Content="Сохранить в файл" Height="16" HorizontalAlignment="Left" Margin="245,119,0,0" Name="chSave" VerticalAlignment="Top" Grid.Column="2" IsChecked="{Binding IsSave}" />
+        <Grid Name="drawGrid" Grid.Column="2" Grid.Row="1" Margin="5,5,5,5" Visibility="Visible" SizeChanged="drawGrid_SizeChanged">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Viewbox Grid.Column="1" Stretch="Fill" StretchDirection="Both" >
+                <Canvas Name="drawPanel" Width="800" Height="600" Background="White" />
+            </Viewbox>
+        </Grid>
+    </Grid>
+</Window>

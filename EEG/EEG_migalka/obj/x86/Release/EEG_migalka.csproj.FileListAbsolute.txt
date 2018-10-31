@@ -1,0 +1,7 @@
+C:\EEG\EEG_migalka\bin\Release\EEG_migalka.exe
+C:\EEG\EEG_migalka\bin\Release\EEG_migalka.pdb
+C:\EEG\EEG_migalka\obj\x86\Release\EEG_migalka.FormMain.resources
+C:\EEG\EEG_migalka\obj\x86\Release\EEG_migalka.Properties.Resources.resources
+C:\EEG\EEG_migalka\obj\x86\Release\EEG_migalka.csproj.GenerateResource.Cache
+C:\EEG\EEG_migalka\obj\x86\Release\EEG_migalka.exe
+C:\EEG\EEG_migalka\obj\x86\Release\EEG_migalka.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <NetManager>
+    <Client>
+      <Network Port="9000" IP="127.0.0.1" Name="Client" />
+    </Client>
+  </NetManager>
+</Settings>

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEG", "EEG\EEG.csproj", "{24E71A91-BEFA-4BD1-B77C-30916E528A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFilter", "TestFilter\TestFilter.csproj", "{E3554A3D-C439-4D19-9017-1F537A2E3AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEG_migalka", "EEG_migalka\EEG_migalka.csproj", "{AC2BB056-6103-4EF9-BA56-CE50D25E5D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEEG", "WpfEEG\WpfEEG.csproj", "{D60D2EA8-917E-4E6D-B224-CFA10882AD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E71A91-BEFA-4BD1-B77C-30916E528A04}.Debug|x86.ActiveCfg = Debug|x86
+		{24E71A91-BEFA-4BD1-B77C-30916E528A04}.Debug|x86.Build.0 = Debug|x86
+		{24E71A91-BEFA-4BD1-B77C-30916E528A04}.Release|x86.ActiveCfg = Release|x86
+		{24E71A91-BEFA-4BD1-B77C-30916E528A04}.Release|x86.Build.0 = Release|x86
+		{E3554A3D-C439-4D19-9017-1F537A2E3AF8}.Debug|x86.ActiveCfg = Debug|x86
+		{E3554A3D-C439-4D19-9017-1F537A2E3AF8}.Debug|x86.Build.0 = Debug|x86
+		{E3554A3D-C439-4D19-9017-1F537A2E3AF8}.Release|x86.ActiveCfg = Release|x86
+		{E3554A3D-C439-4D19-9017-1F537A2E3AF8}.Release|x86.Build.0 = Release|x86
+		{AC2BB056-6103-4EF9-BA56-CE50D25E5D32}.Debug|x86.ActiveCfg = Debug|x86
+		{AC2BB056-6103-4EF9-BA56-CE50D25E5D32}.Debug|x86.Build.0 = Debug|x86
+		{AC2BB056-6103-4EF9-BA56-CE50D25E5D32}.Release|x86.ActiveCfg = Release|x86
+		{AC2BB056-6103-4EF9-BA56-CE50D25E5D32}.Release|x86.Build.0 = Release|x86
+		{D60D2EA8-917E-4E6D-B224-CFA10882AD7F}.Debug|x86.ActiveCfg = Debug|x86
+		{D60D2EA8-917E-4E6D-B224-CFA10882AD7F}.Debug|x86.Build.0 = Debug|x86
+		{D60D2EA8-917E-4E6D-B224-CFA10882AD7F}.Release|x86.ActiveCfg = Release|x86
+		{D60D2EA8-917E-4E6D-B224-CFA10882AD7F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

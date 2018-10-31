@@ -1,0 +1,74 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\bin\Debug\WpfEEG.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\bin\Debug\WpfEEG.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.g.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\bin\Debug\WpfEEG.exe.config
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\bin\Debug\WpfEEG.exe.config
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\bin\Debug\WpfEEG.exe
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\bin\Debug\WpfEEG.pdb
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\MainWindow.g.cs
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\App.g.cs
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.cache
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.lref
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\MainWindow.baml
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.g.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.Properties.Resources.resources
+\\NATASHA\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csprojResolveAssemblyReference.cache
+Q:\programs\EEG\WpfEEG\bin\Debug\WpfEEG.exe.config
+Q:\programs\EEG\WpfEEG\bin\Debug\WpfEEG.exe
+Q:\programs\EEG\WpfEEG\bin\Debug\WpfEEG.pdb
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csprojResolveAssemblyReference.cache
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\MainWindow.g.cs
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\App.g.cs
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.cache
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.lref
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\MainWindow.baml
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG.g.resources
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG.Properties.Resources.resources
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csproj.GenerateResource.Cache
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG.exe
+Q:\programs\EEG\WpfEEG\obj\x86\Debug\WpfEEG.pdb
+C:\EEG12.12.2014\WpfEEG\bin\Debug\WpfEEG.exe.config
+C:\EEG12.12.2014\WpfEEG\bin\Debug\WpfEEG.exe
+C:\EEG12.12.2014\WpfEEG\bin\Debug\WpfEEG.pdb
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG.csprojResolveAssemblyReference.cache
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\MainWindow.g.cs
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\App.g.cs
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.cache
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.lref
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\MainWindow.baml
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG.g.resources
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG.Properties.Resources.resources
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG.csproj.GenerateResource.Cache
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG.exe
+C:\EEG12.12.2014\WpfEEG\obj\x86\Debug\WpfEEG.pdb
+C:\EEG\WpfEEG\bin\Debug\WpfEEG.exe.config
+C:\EEG\WpfEEG\bin\Debug\WpfEEG.exe
+C:\EEG\WpfEEG\bin\Debug\WpfEEG.pdb
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csprojResolveAssemblyReference.cache
+C:\EEG\WpfEEG\obj\x86\Debug\MainWindow.g.cs
+C:\EEG\WpfEEG\obj\x86\Debug\App.g.cs
+C:\EEG\WpfEEG\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.cache
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG_MarkupCompile.lref
+C:\EEG\WpfEEG\obj\x86\Debug\MainWindow.baml
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG.g.resources
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG.Properties.Resources.resources
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG.csproj.GenerateResource.Cache
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG.exe
+C:\EEG\WpfEEG\obj\x86\Debug\WpfEEG.pdb
