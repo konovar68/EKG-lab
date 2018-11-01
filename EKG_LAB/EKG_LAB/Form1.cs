@@ -36,7 +36,7 @@ namespace Приемник
 
         short[] t;
         int[][] g ;
-
+        int timer = 0, time = 5;
         const int decim = 3;// децимация сигнала
         int dec = 0;
         const int dec_max = 2;// частота обработки полученных сигналов
@@ -331,7 +331,8 @@ namespace Приемник
                     30,
                     10
                     )[0];
-
+            if (timer == time)
+            {
                 List<MCvBox2D> boxList = new List<MCvBox2D>();
 
                 using (MemStorage storage = new MemStorage())
@@ -363,8 +364,7 @@ namespace Приемник
                             }
                         }
                     }
-
-                if (boxList.Count > 2)
+                if (boxList.Count > 4)
                 {
                     min.X = Convert.ToInt32(boxList[0].center.X);
                     max.X = min.X;
@@ -381,7 +381,10 @@ namespace Приемник
                         else if (max.Y < a2) max.Y = a2;
                     }
 
-                }        
+                }
+                timer = 0;
+            }
+            else timer++;
                 if(siteCount>0)
             Voronoi(min, max, Kadr);
             draw();
